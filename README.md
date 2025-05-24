@@ -18,6 +18,7 @@
   <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
   <img src="https://img.icons8.com/color/48/mongodb-logo.png" alt="MongoDB"/>
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 </p>
 
 ---
