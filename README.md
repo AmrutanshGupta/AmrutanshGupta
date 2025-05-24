@@ -1,6 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Hi%20👋,%20I'm%20Amrutansh%20Gupta&fontColor=FFFFFF&fontSize=35&fontAlignY=40)
+![Header Image](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-# Hi 👋, I'm Amrutansh Gupta
+<h1 align="center">Hi I'm Amrutansh Gupta</h1>
 
 <p align="center">🎓 Student @ IIT Indore • 💻 Web Dev Enthusiast • 🤖 ML Learner</p>
 
