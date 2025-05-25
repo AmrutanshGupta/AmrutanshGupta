@@ -40,11 +40,11 @@
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="(https://www.linkedin.com/in/amrutansh-gupta-0728442b4/)" target="_blank"><img src="https://img.icons8.com/color/30/linkedin.png"/></a>
+  <a href="(https://www.linkedin.com/in/amrutansh-gupta-0728442b4)" target="_blank"><img src="https://img.icons8.com/color/30/linkedin.png"/></a>
   <a href="(https://www.instagram.com/amrutansh_gupta/)" target="_blank"><img src="https://img.icons8.com/fluency/30/instagram-new.png"/></a>
   <a href="https://github.com/AmrutanshGupta" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png"/></a>
   <a href="https://leetcode.com/u/amrutansh_codes/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/30/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a>
-  <a href="[https://codeforces.com/profile/yourhandle](https://codeforces.com/profile/zetrocodes)" target="_blank">
+  <a href="(https://codeforces.com/profile/zetrocodes)" target="_blank">
     <img src="https://sta.codeforces.com/s/95977/images/codeforces-logo-with-telegram.png" alt="Codeforces" height="30"/>
   </a>
 </p>
