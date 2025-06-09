@@ -15,7 +15,6 @@
 ### 🛠️ Technologies & Tools
 <p align="left">
   <!-- Top Row -->
-  <a href="https://babeljs.io/"><img src="https://img.icons8.com/color/48/babel.png" alt="Babel" /></a>
   <a href="https://www.blender.org/"><img src="https://img.icons8.com/color/48/blender-3d.png" alt="Blender" /></a>
   <a href="https://isocpp.org/"><img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.icons8.com/color/48/css3.png" alt="CSS" /></a>
