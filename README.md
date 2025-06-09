@@ -1,4 +1,4 @@
-![Header Image]((https://github.com/user-attachments/assets/566ee9d4-e2b9-4f17-b2fa-10de635a35a6)
+![Header Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
 )
 
 <h1 align="center">Hi I'm Amrutansh Gupta</h1>
