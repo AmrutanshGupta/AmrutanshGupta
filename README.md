@@ -1,4 +1,5 @@
-![Header Image](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
+![Header Image]((https://github.com/user-attachments/assets/566ee9d4-e2b9-4f17-b2fa-10de635a35a6)
+)
 
 <h1 align="center">Hi I'm Amrutansh Gupta</h1>
 
@@ -8,17 +9,33 @@
 
 ### 🛠️ Technologies & Tools
 <p align="left">
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/plasticine/48/react.png" alt="React"/>
-  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
-  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
-  <img src="https://img.icons8.com/fluency/48/tensorflow.png" alt="TensorFlow"/>
-  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/mongodb-logo.png" alt="MongoDB"/>
-<img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch"/>
+  <!-- Top Row -->
+  <a href="https://babeljs.io/"><img src="https://img.icons8.com/color/48/babel.png" alt="Babel" /></a>
+  <a href="https://www.blender.org/"><img src="https://img.icons8.com/color/48/blender-3d.png" alt="Blender" /></a>
+  <a href="https://isocpp.org/"><img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.icons8.com/color/48/css3.png" alt="CSS" /></a>
+  <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/django.png" alt="Django" /></a>
+  <a href="https://expressjs.com/"><img src="https://img.icons8.com/ios-filled/48/ffffff/express-js.png" alt="Express.js" /></a>
+  <a href="https://flutter.dev/"><img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter" /></a>
+  <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/git.png" alt="Git" /></a>
+  <a href="https://html.spec.whatwg.org/"><img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" /></a>
+  <a href="https://www.java.com/"><img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" /></a>
+  <a href="https://www.linux.org/"><img src="https://img.icons8.com/color/48/linux.png" alt="Linux" /></a>
+  <a href="https://www.mathworks.com/products/matlab.html"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="48" height="48" /></a>
+  <a href="https://www.mysql.com/"><img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL" /></a>
+  <a href="https://nextjs.org/"><img src="https://img.icons8.com/fluency-systems-filled/48/ffffff/nextjs.png" alt="Next.js" /></a>
+  <a href="https://nodejs.org/"><img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" /></a>
+  <a href="https://numpy.org/"><img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" /></a>
+  <a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" /></a>
+  <a href="https://reactjs.org/"><img src="https://img.icons8.com/color/48/react-native.png" alt="React" /></a>
+  <a href="https://redis.io/"><img src="https://img.icons8.com/color/48/redis.png" alt="Redis" /></a>
+  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="48" height="48" /></a>
+  <a href="https://spring.io/"><img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" /></a>
+  <a href="https://typescriptlang.org/"><img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" /></a>
+</p>
 
 
 ---
@@ -40,13 +57,12 @@
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="(https://www.linkedin.com/in/amrutansh-gupta-0728442b4)" target="_blank"><img src="https://img.icons8.com/color/30/linkedin.png"/></a>
-  <a href="(https://www.instagram.com/amrutansh_gupta/)" target="_blank"><img src="https://img.icons8.com/fluency/30/instagram-new.png"/></a>
-  <a href="https://github.com/AmrutanshGupta" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png"/></a>
-  <a href="https://leetcode.com/u/amrutansh_codes/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/30/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a>
-  <a href="(https://codeforces.com/profile/zetrocodes)" target="_blank">
-    <img src="https://sta.codeforces.com/s/95977/images/codeforces-logo-with-telegram.png" alt="Codeforces" height="30"/>
-  </a>
+  <a href="https://twitter.com/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://facebook.com/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white" /></a>
+  <a href="https://leetcode.com/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
 </p>
 
 ---
