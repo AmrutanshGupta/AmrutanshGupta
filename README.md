@@ -51,6 +51,8 @@
 </p>
 
 ---
+![Image](https://pin.it/7EMsEQRxJ)
+---
 
 ### 🔥 GitHub Streak
 <p align="center">
