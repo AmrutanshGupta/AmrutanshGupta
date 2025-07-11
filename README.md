@@ -60,11 +60,11 @@
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/amrutansh-gupta-0728442b4/" target="_blank"><img alt="LinkedIn" src="https://img.icons8.com/?size=100&id=8808&format=png&color=000000" width = "5%" /></a>
-  <a href="https://www.instagram.com/amrutansh_gupta/" target="_blank"><img alt="Instagram" src="https://img.icons8.com/?size=100&id=59813&format=png&color=000000" width = "5%" /></a>
-  <a href="https://leetcode.com/u/amrutansh_codes/" target="_blank"><img alt="LeetCode" src="https://img.icons8.com/?size=100&id=PZknXs9seWCp&format=png&color=000000" width = "5%" /></a>
-  <a href="https://www.kaggle.com/amrutanshgupta" target="_blank"><img alt="Kaggle" src="https://img.icons8.com/?size=100&id=1gfpj0O16MD1&format=png&color=000000" width = "5%" /></a>
-  <a href="https://codeforces.com/profile/zetrocodes" target="_blank"><img alt="CodeForces" src="https://img.icons8.com/?size=100&id=iNL6HTqpNVeO&format=png&color=000000" width = "5%" /></a>
+  <a href="https://www.linkedin.com/in/amrutansh-gupta-0728442b4/" target="_blank"><img alt="LinkedIn" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width = "5%" /></a>
+  <a href="https://www.instagram.com/amrutansh_gupta/" target="_blank"><img alt="Instagram" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width = "5%" /></a>
+  <a href="https://leetcode.com/u/amrutansh_codes/" target="_blank"><img alt="LeetCode" src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" width = "5%" /></a>
+  <a href="https://www.kaggle.com/amrutanshgupta" target="_blank"><img alt="Kaggle" src="https://img.icons8.com/?size=100&id=QrYhwpUzAcoy&format=png&color=000000" width = "5%" /></a>
+  <a href="https://codeforces.com/profile/zetrocodes" target="_blank"><img alt="CodeForces" src="https://img.icons8.com/?size=100&id=jldAN67IAsrW&format=png&color=000000" width = "5%" /></a>
 </p>
 
 ---
