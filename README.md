@@ -13,17 +13,17 @@
 ---
 
 ### 🛠️ Technologies & Tools
-<p align="left">
+<p align="center">
   <!-- Top Row -->
   <a href="https://www.blender.org/"><img src="https://img.icons8.com/color/48/blender-3d.png" alt="Blender" /></a>
   <a href="https://isocpp.org/"><img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.icons8.com/color/48/css3.png" alt="CSS" /></a>
-  <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/django.png" alt="Django" /></a>
-  <a href="https://expressjs.com/"><img src="https://img.icons8.com/ios-filled/48/ffffff/express-js.png" alt="Express.js" /></a>
+  <a href="https://expressjs.com/"><img src="https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000" alt="Express.js"  width = "5%" /></a>
   <a href="https://flutter.dev/"><img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter" /></a>
   <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/git.png" alt="Git" /></a>
   <a href="https://html.spec.whatwg.org/"><img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" /></a>
   <a href="https://www.java.com/"><img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" /></a>
+  <a href="https://www.tensorflow.org/"><img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" alt="TensorFlow" width = "5%" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" /></a>
   <a href="https://www.linux.org/"><img src="https://img.icons8.com/color/48/linux.png" alt="Linux" /></a>
   <a href="https://www.mathworks.com/products/matlab.html"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="48" height="48" /></a>
@@ -53,16 +53,18 @@
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AmrutanshGupta&theme=tokyonight" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AmrutanshGupta&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 ---
 
 ### 📫 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/amrutansh-gupta-0728442b4/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/amrutansh_gupta/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/amrutansh_codes/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/amrutansh-gupta-0728442b4/" target="_blank"><img alt="LinkedIn" src="https://img.icons8.com/?size=100&id=8808&format=png&color=000000" width = "5%" /></a>
+  <a href="https://www.instagram.com/amrutansh_gupta/" target="_blank"><img alt="Instagram" src="https://img.icons8.com/?size=100&id=59813&format=png&color=000000" width = "5%" /></a>
+  <a href="https://leetcode.com/u/amrutansh_codes/" target="_blank"><img alt="LeetCode" src="https://img.icons8.com/?size=100&id=PZknXs9seWCp&format=png&color=000000" width = "5%" /></a>
+  <a href="https://www.kaggle.com/amrutanshgupta" target="_blank"><img alt="Kaggle" src="https://img.icons8.com/?size=100&id=1gfpj0O16MD1&format=png&color=000000" width = "5%" /></a>
+  <a href="https://codeforces.com/profile/zetrocodes" target="_blank"><img alt="CodeForces" src="https://img.icons8.com/?size=100&id=iNL6HTqpNVeO&format=png&color=000000" width = "5%" /></a>
 </p>
 
 ---
