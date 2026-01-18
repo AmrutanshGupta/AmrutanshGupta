@@ -8,7 +8,7 @@
 
 
 
-<p align="center">🎓 Student @ IIT Indore • 💻 Web Dev Enthusiast • 🤖 ML Learner</p>
+<p align="center"> Student @ IIT Indore •  Web Dev Enthusiast •  ML Learner</p>
 
 ---
 
