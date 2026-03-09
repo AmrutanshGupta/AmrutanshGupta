@@ -43,14 +43,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmrutanshGupta&show_icons=true&theme=tokyonight" width="48%" height = "150%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrutanshGupta&layout=compact&theme=tokyonight" width="48%" height = "150%">
-</p>
-
----
-
 ### 🔥 GitHub Streak
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AmrutanshGupta&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
